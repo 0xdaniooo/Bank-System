@@ -507,10 +507,6 @@ void Bank::TransferMoney()
         }
     }
 
-    //accountToShow = 0;
-
-    //if (currentUser->accounts.size() > 1)
-    //{
     else if (choice == 1)
     {
         ClearDisplay();
