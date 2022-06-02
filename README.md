@@ -1,5 +1,5 @@
 # Bank-System
-A simple bank system written in C++ used to learn the basics of the C++ language. Written for Windows exclusively.
+A simple bank system written in C++ which I used to learn the basics of the C++ language. Written for Windows exclusively.
 
 ## Features
 - Adding and deleting multiple bank accounts
